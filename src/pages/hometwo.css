@@ -1,0 +1,104 @@
+
+
+*{
+  box-sizing: border-box;
+}
+
+h2{
+  margin-top: 80px;
+}
+.category{
+  width: 100%;
+  height: 100px;
+  border: 3px solid #A0A0A0;
+}
+.imagebmw{
+  margin-top: 7px;
+  width: 100px;
+}
+h3{
+  font-size: 25px;
+  margin-left: 50px;
+}
+.rent-one{
+  width: 350px;
+  height: 500px;
+  border: 2px solid #000;
+  margin-left: 100px;
+}
+.imagerentcar{
+  width: 350px;
+}
+.courser{
+  margin-left: 140px;
+}
+.imagecounter{
+  margin-top: -55px;
+    position: absolute;
+    margin-left: 70px;
+}
+h4{
+  font-size: 20px;
+  margin-left: 70px;
+}
+.imagelocation{
+  margin-left: 70px;
+
+}
+.isma{
+  margin-left: 120px;
+  margin-top: -40px;
+}
+.rent-two{
+  width: 350px;
+    height: 500px;
+    border: 2px solid #000;
+    margin-left: 570px;
+    margin-top: -500px;
+
+}
+.rent-three{
+  width: 350px;
+    height: 500px;
+    border: 2px solid #000;
+    margin-left: 1050px;
+    margin-top: -500px;
+}
+.fa-regular{
+  margin-left: 300px;
+    margin-top: -50px;
+    position: absolute;
+    font-size: 38px;
+}
+.rent-four{
+  width: 350px;
+  height: 500px;
+  border: 2px solid #000;
+  margin-left: 1050px;
+  margin-top: 50px;
+}
+.rent-five{
+  width: 350px;
+  height: 500px;
+  border: 2px solid #000;
+  margin-left: 570px;
+  margin-top: -500px;
+}
+.rent-six{
+    width: 350px;
+  height: 500px;
+  border: 2px solid #000;
+  margin-left: 100px;
+  margin-top: -500px;
+}
+.but-see{
+  cursor: pointer;
+  width: 140px;
+  height: 50px;
+  margin-top: 40px;
+  margin-left: 45%;
+  background-color: #4543AE;
+  color: white;
+  border-radius: 20px;
+  font-size: 20px;
+}

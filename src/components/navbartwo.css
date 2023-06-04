@@ -1,0 +1,96 @@
+
+.navbar{
+  height: 100px;
+  width: 100%;
+  background-color: #D9D9D9;
+}
+.imageone{
+  margin-top: -15px;
+  margin-left: 30px;
+}
+.logo{
+  margin-left: 170px;
+  margin-top: -100px;
+  font-weight: 800;
+}
+.comlogo{
+  color: #4543AE;
+}
+.loc-search{
+  margin-left: 430px;
+    position: absolute;
+    margin-top: -52px;
+    width: 150px;
+    height: 30px;
+}
+.fa-solid {
+  font-weight: 900;
+  position: absolute;
+  margin-top: -46px;
+  margin-left: 560px;
+  font-size: 25px;
+}
+.car-search{
+  position: absolute;
+    margin-left: 630px;
+    margin-top: -52px;
+    width: 300px;
+    height: 30px;
+
+}
+.theImagenavone{
+  width: 30px;
+  margin-top: -50px;
+  position: absolute;
+  margin-left: 1020px;
+  cursor: pointer;
+}
+.theImagenavtwo{
+  width: 30px;
+  margin-top: -50px;
+  position: absolute;
+  margin-left: 1070px;
+  cursor: pointer;
+
+}
+.theImagenavthree{
+  width: 30px;
+  margin-top: -50px;
+  position: absolute;
+  margin-left: 1120px;
+  cursor: pointer;
+
+}
+.fa-sharp {
+margin-left: 900px;
+}
+
+.user-icon{
+  margin-left: 300px;
+}
+.but-one{
+  cursor: pointer;
+  position: absolute;
+  margin-top: -60px;
+  width: 100px;
+  height: 40px;
+  border: 2px solid #000000;
+  border-radius: 15px;
+  color: white;
+  background-color: #4543AE;
+  font-size: 15px;
+  margin-left: 1100px;
+}
+.but-two{
+  cursor: pointer;
+  position: absolute;
+  margin-top: -60px;
+  width: 100px;
+  height: 40px;
+  border: 2px solid #000000;
+  border-radius: 15px;
+  color: white;
+  background-color: #4543AE;
+  font-size: 15px;
+  margin-left: 1250px;
+}

@@ -1,0 +1,163 @@
+
+
+h1{
+  text-align: center;
+}
+.parent{
+
+}
+.child{
+  border: 2px solid #000;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+h5{
+  margin-left: 20px;
+}
+.child-one{
+  border: 2px solid #000;
+  margin-left: 20px;
+  margin-right: 20px;
+  
+  
+}
+.manual{
+  margin-left: 150px;
+}
+.monthly{
+  margin-left: 190px;
+
+}
+.yearly{
+  margin-left: 150px;
+}
+
+.withoutdrive{
+  margin-left: 150px;
+}
+.diesel{
+  margin-left: 150px;
+}
+.electric{
+  margin-left: 150px;
+}
+.RentingChat{
+  margin-left: 150px;
+
+}
+.Both{
+  margin-left: 150px;
+
+}
+
+
+.add-title{
+  margin-left: 20px;
+  width: 1400px;
+  height: 30px;
+}
+p{
+  margin-left: 20px;
+}
+
+.body-type{
+  margin-left: 20px;
+  width: 1400px;
+  height: 30px;
+}
+.kilo-meters{
+  margin-left: 20px;
+  width: 1400px;
+  height: 30px;
+}
+.Description{
+  width: 1400px;
+  height: 200px;
+  margin-left: 20px;
+
+}
+.egp{
+  width: 1430px;
+  height: 30px;
+  margin-left: 20px;
+}
+
+.child-two{
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  height: 200px;
+}
+.child-three{
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  margin-top: 50px;
+  height: 150px;
+
+}
+.yourads{
+  width: 1400px;
+  height: 30px;
+  margin-left: 20px;
+  
+}
+.child-four{
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  margin-top: 50px;
+  height: 150px;
+}
+.child-five{
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  margin-top: 50px;
+}
+.image-pic{
+  width: 100px;
+  margin-left: 20px;
+}
+.pic-name{
+  margin-left: 50px;
+  position: absolute;
+}
+.pic-text{
+  margin-left: 40px;
+  position: absolute;
+  margin-top: 30px;
+  height: 30px;
+  width: 1250px;
+}
+.mobile-number{
+  margin-left: 20px;
+  height: 30px;
+  width: 1400px;
+}
+.child-six{
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  margin-top: 50px;
+  height: 150px;
+}
+.post-now{
+  margin-top: 30px;
+  text-align: center;
+  font-size: 20px;
+  height: 40px;
+  background-color: #4543AE;
+  color: white;
+  margin-left: 20px;
+}
+.imagephoto{
+  width: 50px;
+  margin-left: 20px;
+}
+.photo{
+  margin-left: 20px;
+position: absolute;
+margin-top: 10px;
+}
+.image-chose{
+  margin-left: 20px;
+  border: 0;
+  background-color: white;
+  cursor: pointer;
+}
